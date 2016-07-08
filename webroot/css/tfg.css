@@ -1,0 +1,148 @@
+h1 {
+	color:black;
+	font-family: Verdana;
+	font-size: large;
+	display : inline;
+}
+h2 {
+	color:green;
+	font-family: Verdana;
+	font-size: medium;
+}
+p {
+	color: green;
+	font-family: Verdana;
+	font-size: medium;
+}
+#login {
+	margin : auto;
+	width : 30%;
+	margin-top : 2cm;
+}
+#principal {
+	margin : auto;
+	width : 80%
+}
+#principal_izq {
+	float : left;
+	text-align : center;
+	width : 60%;
+}
+#principal_der {
+	float : right;
+	text-align: center;
+	width : 40%;
+}
+#principal_abj {
+	clear : both;
+	text-align: center;
+}
+#form_usuario {
+	margin : auto;
+	width : 90%
+}
+#form_usuario_izq {
+	float : left;
+	width : 40%;
+}
+#form_usuario_cnt {
+	float : left;
+	margin-left : 20px;
+	width : 30%;
+}
+#form_usuario_der {
+	float : left;
+	margin-left : 20px;
+	width : 15%;
+}
+#form_usuario_abj {
+	float : left;
+	width : 100%;
+}
+#form_vehiculo {
+	margin : auto;
+	width : 40%
+}
+#form_oferta {
+	margin : auto;
+	width : 80%;
+}
+#form_oferta_izq {
+	float : left;
+	width : 30%;
+	margin-right: 100px;
+}
+#form_oferta_der {
+	float : left;
+	width : 40%;
+	margin-left: 100px;
+}
+#form_oferta_abj {
+	clear : both;
+	margin : auto;
+	width : 50%;
+}
+#form_grid {
+	margin : auto;
+	width : 80%;
+}
+#form_buscar_arr1 {
+	float : left;
+	width : 20%;
+	margin-left: 30px;
+}
+#form_buscar_arr2 {
+	float : left;
+	width : 20%;
+	margin-left: 30px;
+}
+#form_buscar_arr3 {
+	float : left;
+	width : 20%;
+	margin-left: 30px;
+}
+#form_buscar_arr4 {
+	float : left;
+	width : 20%;
+	margin-left: 20px;
+}
+#form_grid_tabla {
+	float : left;
+	width : 100%;
+}
+#form_grid_abj {
+	clear : both;
+	text-align: center;
+}
+#form_creditos {
+	margin : auto;
+	width : 50%;
+}
+#detalle {
+	margin : auto;
+	width : 50%;
+}
+#voto {
+	margin : auto;
+	width : 90%;	
+}
+#voto_izq {
+	float: left;
+	width : 60%;	
+}
+#voto_der {
+	float: left;
+	width : 40%;
+}
+#voto_abj {
+	clear : both;
+	text-align: center;
+}
+#valoracion {
+	margin : auto;
+	width : 70%;
+}
+#form_password {
+	margin : auto;
+	width : 40%;
+}
