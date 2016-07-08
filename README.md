@@ -1,7 +1,7 @@
 # mitmicar
 Mitmicar - Aplicación para compartir vehículos
 
-- Descripción: Esta aplicación ha sido desarrollada para el Trabajo de Fin de Grado (TFG) del Curso de Adaptación al Grado de Ingeniería Informática de UNIR (Universidad Internacional de La Rioja.
+- Descripción: Esta aplicación ha sido desarrollada para el Trabajo de Fin de Grado (TFG) del Curso de Adaptación al Grado de Ingeniería Informática de UNIR (Universidad Internacional de La Rioja).
 - Autor: Javier Sánchez Felipe
 - Fecha: Marzo-Julio de 2016
 - Framework: CakePHP 3
